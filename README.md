@@ -4,7 +4,22 @@
 # PROJECT FOLDER STRUCTURE
 # ANY MAKEFILE INSTRUCTIONS
 
-
+### Folder Structure
+.
+├ README.md                 - this readme file.
+├── /data/                  - all data files put here
+│   ├── proc/                   - processed files (e.g. CDO/NCO output, ROMS subsets)
+│   └── raw/                    - raw data
+├── /docs/                  - PDFs, manuals, etc
+├── /notebooks/             - exploratory science in notebooks
+│   
+│   
+└── /src                    - source code
+    ├── analyses/               - repeatable analyses
+    ├── ext/                    - source code from other people
+    ├── functions/              - functions
+    └── project/                - project code, final toolkit code, etc.
+ 
 ---
 ##### Python data science template
 This `cookie cutter data science` template is built with python codes and is primarily designed for analysing big ocean data, for example from ROMS, satellite or other model/observational data.

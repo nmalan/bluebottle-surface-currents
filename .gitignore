@@ -5,3 +5,5 @@
 *.nc
 *.mat
 
+# Stupid Mac files
+.DS_Store
