@@ -5,6 +5,7 @@
 # ANY MAKEFILE INSTRUCTIONS
 
 ### Folder Structure
+```
 .
 ├ README.md                 - this readme file.
 ├── /data/                  - all data files put here
@@ -19,7 +20,7 @@
     ├── ext/                    - source code from other people
     ├── functions/              - functions
     └── project/                - project code, final toolkit code, etc.
- 
+```
 ---
 ##### Python data science template
 This `cookie cutter data science` template is built with python codes and is primarily designed for analysing big ocean data, for example from ROMS, satellite or other model/observational data.
