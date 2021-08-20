@@ -1,6 +1,6 @@
-# PROJECT NAME
-# DATE
-# PROJECT GOAL
+# Dipole eddy intrusions in the Stockton Bight
+# 20/08/2020
+# For F.mar.sci special issue 
 # PROJECT FOLDER STRUCTURE
 # ANY MAKEFILE INSTRUCTIONS
 
