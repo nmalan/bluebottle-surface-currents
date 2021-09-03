@@ -1,6 +1,6 @@
-# Dipole eddy intrusions in the Stockton Bight
-# 20/08/2020
-# For F.mar.sci special issue 
+# PROJECT NAME
+# DATE
+# GOAL 
 # PROJECT FOLDER STRUCTURE
 # ANY MAKEFILE INSTRUCTIONS
 
